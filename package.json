@@ -1,0 +1,20 @@
+{
+  "name": "autosuggest1",
+  "version": "1.0.0",
+  "description": "Verifying my git set-up :)",
+  "homepage": "https://github.com/Thanvireddy23/autosuggest1#readme",
+  "bugs": {
+    "url": "https://github.com/Thanvireddy23/autosuggest1/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Thanvireddy23/autosuggest1.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
