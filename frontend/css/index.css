@@ -13,4 +13,28 @@ h1 {
     border-style: solid;
     padding: 20px;
     text-align: center;
+    
+}
+.navbar{
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    padding: 15px;
+    background-color: aqua;
+    text-align: center;
+
+
+}
+.navbar a{
+    color: black;
+    padding: 15px;
+    text-decoration: none;
+
+}
+.navbar a:hover{
+    background-color: rgb(159, 89, 89);
+    color: white;
+}
+body{
+    margin: 0px;
 }
